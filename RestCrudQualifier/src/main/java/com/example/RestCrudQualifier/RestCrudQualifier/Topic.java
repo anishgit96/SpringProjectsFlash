@@ -32,9 +32,5 @@ public class Topic {
 	public String getLevel() {
 		return level;
 	}
-	
-	
-	
-	
 
 }
